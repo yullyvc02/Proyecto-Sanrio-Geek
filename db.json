@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "Pompompurin",
+      "price": "$ 50000",
+      "image": "https://i.ibb.co/bm3K3Y9/funko-pop-pompompurin.png",
+      "id": "1"
+    },
+    {
+      "name": "Badtz maru",
+      "price": "$ 60000",
+      "image": "https://i.ibb.co/HFsgNJ4/Funko-pop-badtz-maru.png",
+      "id": "2"
+    },
+    {
+      "name": "Chococat",
+      "price": "$ 70000",
+      "image": "https://i.ibb.co/rH54cT4/Funko-pop-chococat.png",
+      "id": "3"
+    },
+    {
+      "name": "Hangyodon",
+      "price": "$ 80000",
+      "image": "https://i.ibb.co/hKdLwkb/funko-pop-hangyodon.png",
+      "id": "5"
+    },
+    {
+      "name": "Hello Kitty",
+      "price": "$ 85000",
+      "image": "https://i.ibb.co/PD7wKXJ/funko-pop-hello-kitty.png",
+      "id": "6"
+    },
+    {
+      "name": "Kuromi",
+      "price": "$ 75000",
+      "image": "https://i.ibb.co/64jNd3N/funko-pop-kuromi.png",
+      "id": "7"
+    },
+    {
+      "name": "Melody",
+      "price": "$ 55000",
+      "image": "https://i.ibb.co/TwfMS16/funko-pop-my-melody.png",
+      "id": "8"
+    },
+    {
+      "name": "Pochacco",
+      "price": "$ 65000",
+      "image": "https://i.ibb.co/wJZ43Mv/funko-pop-pochacco.png",
+      "id": "9"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="./styles/reset.css">
+    <link rel="stylesheet" href="./styles/estilo.css">
+    <title>El Mundo Geek de Sanrio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Encabezado -->
+    <header class="header">
+        <img src="img/Logo sanrio.png" alt="Logo de Sanrio" />
+    </header>
+    
+    <!-- Contenedor principal -->
+    <main class="main-container">
+        <section>
+            <h1>Mis Productos:</h1>
+            <div data-product class="products-container"></div>
+        </section>
+
+        <!-- Sección de agregar productos -->
+        <section>
+            <h1>Agregar Producto:</h1>
+
+            <!-- Formulario para agregar productos -->
+            <form class="form-container" data-form>
+                <input data-name placeholder="Nombre" type="text">
+                <input data-price placeholder="Precio" type="text">
+                <input data-image placeholder=" Url Imagen" type="text">
+                <span data-mensaje class="mensajeError"></span>
+                <div class="button-container">
+                    <button type="submit" class="button-submit">Enviar</button>
+                    <button type="reset" class="button-clear">Borrar</button>
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <!-- Pie de página -->
+    <footer class="footer-container">
+        <div>
+            <img src="img/Logo sanrio.png" alt="Logo de Sanrio" />
+        </div>
+        <p>Realizado por Yully Garzón</p>
+        <small>&copy;2024 Todos los derechos reservados</small>
+    </footer>
+    <script type="module" src="js/main.js"></script>
+</body>
+</html>
