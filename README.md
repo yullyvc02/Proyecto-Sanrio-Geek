@@ -1,7 +1,7 @@
 <h1 align="center"> Proyecto Sanrio Geek </h1>
 
-<p align="left">
-  <img src="https://github.com/yullyvc02/Proyecto-Sanrio-Geek/blob/main/img/favicon.ico" alt="Favicon personaje Sanrio" width="100" height="100">
+<p align="center">
+  <img src="https://github.com/yullyvc02/Proyecto-Sanrio-Geek/blob/main/img/Sanrio-logo.png" alt="Logo de Sanrio" width="100" height="100">
 </p>
 
 
@@ -10,9 +10,9 @@
 
 <p align="left">Es una aplicación web CRUD (Create, Read, Update, Delete) para gestionar una colección de tienda de productos Funko Pop de personajes de Sanrio.</p>
 
-<p align="center">En el archivo <strong>package.json</strong>: En scripts start inicia el servidor con json-server --watch db.json --port 3000.</p>
+<p align="left">En el archivo <strong>package.json</strong>: En scripts start inicia el servidor con json-server --watch db.json --port 3000.</p>
 
-<p align="center">En el archivo <em>producto-servicio</em>: Copia http://localhost:3000/products y pega el enlace en la const BASE_URL.</p>
+<p align="left">En el archivo <em>producto-servicio</em>: Copia http://localhost:3000/products y pega el enlace en la const BASE_URL.</p>
 
 
 <h2 align="left">Acciones </h2>
