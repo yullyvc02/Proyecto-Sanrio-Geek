@@ -1,7 +1,7 @@
 <h1 align="center"> Proyecto Sanrio Geek </h1>
 
 <p align="center">
-  <img src="https://github.com/yullyvc02/Proyecto-Sanrio-Geek/blob/main/img/Sanrio-logo.png" alt="Logo de Sanrio">
+  <img src="https://github.com/yullyvc02/Proyecto-Sanrio-Geek/blob/main/img/Sanrio.png" alt="Logo de Sanrio">
 </p>
 
 
