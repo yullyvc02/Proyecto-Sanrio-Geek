@@ -1,8 +1,9 @@
 <h1 align="center"> Proyecto Sanrio Geek </h1>
 
 <p align="left">
-  <img src="https://github.com/yullyvc02/Proyecto-Sanrio-Geek/blob/main/img/favicon.ico" alt="Favicon personaje Sanrio">
+  <img src="https://github.com/yullyvc02/Proyecto-Sanrio-Geek/blob/main/img/favicon.ico" alt="Favicon personaje Sanrio" width="100" height="100">
 </p>
+
 
 
 <h2 align="center"> Descripción del proyecto </h2>
@@ -37,10 +38,10 @@
 
 <h2 align="left">Guía para el Uso de la Aplicación</h2>
 <ul>
-<li><b>Visualización de productos:</b>Al abrir la página, los productos se cargan automáticamente desde el servidor simulado.</li>
-<li><b>Agregar un producto:</b>Completa el formulario ingresando el nombre, precio y URL de la imagen del producto. Después, haz clic en el botón "Enviar" para añadirlo.</li>
-<li><b>Eliminar un producto:</b>Para eliminar un producto, haz clic en el ícono con forma de papelera.</li>
-<li><b>Borrar datos del formulario:</b>El botón "Borrar" elimina toda la información ingresada en el formulario.</li>
+<li><b>Visualización de productos:</b> Al abrir la página, los productos se cargan automáticamente desde el servidor simulado.</li>
+<li><b>Agregar un producto:</b> Completa el formulario ingresando el nombre, precio y URL de la imagen del producto. Después, haz clic en el botón "Enviar" para añadirlo.</li>
+<li><b>Eliminar un producto:</b> Para eliminar un producto, haz clic en el ícono con forma de papelera.</li>
+<li><b>Borrar datos del formulario:</b> El botón "Borrar" elimina toda la información ingresada en el formulario.</li>
 
 <h2 align="left">Características técnicas</h2>
 <ul>
